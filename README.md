@@ -1,5 +1,7 @@
 # MATH Founder Stack
 
+[![validate](https://github.com/arvindang/math-collective-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/arvindang/math-collective-skills/actions/workflows/validate.yml)
+
 An open, source-backed founder operating system distilled from the startup
 lessons at [startups.henikoff.com](https://startups.henikoff.com).
 
@@ -13,9 +15,11 @@ Henikoff, MATH Venture Partners, OpenAI, Anthropic, or gstack.
 
 ## Quick start
 
-After cloning this repository:
+Clone and install for both Claude Code and Codex:
 
 ```bash
+git clone https://github.com/arvindang/math-collective-skills.git
+cd math-collective-skills
 ./setup --host all
 ```
 
