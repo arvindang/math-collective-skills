@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Founder Equity"
+  short_description: "Prepare founder equity and vesting decisions"
+  default_prompt: "Use $math-structure-founder-equity to organize founder equity facts and questions before professional review."

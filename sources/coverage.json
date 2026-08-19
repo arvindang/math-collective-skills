@@ -1,0 +1,628 @@
+{
+  "source": "https://startups.henikoff.com",
+  "reviewed_on": "2026-08-19",
+  "total_items": 80,
+  "items": [
+    {
+      "slug": "tech-scenes-unplugged-with-troy-henikoff-managing-director-of-math-venture-partners",
+      "evidence_status": "synopsis_only",
+      "primary_skill": "math-review-founder-operations",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "3-passes-on-how-to-make-a-better-pitch",
+      "evidence_status": "substantive",
+      "primary_skill": "math-build-investor-pitch",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "angel-investing-101",
+      "evidence_status": "description_only",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-table-of-contents",
+      "evidence_status": "index_only",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "nailing-cold-investor-outreach",
+      "evidence_status": "substantive",
+      "primary_skill": "math-run-investor-process",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "what-are-investors-really-thinking-about-when-they-ask-about-your-cac",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [
+        "math-build-investor-pitch",
+        "math-plan-fundraise"
+      ],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "channel-partnerships-part-ii-engaging-and-closing-partners",
+      "evidence_status": "substantive",
+      "primary_skill": "math-build-channel-partnerships",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "think-twice-before-committing-to-strategic-investors",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [
+        "math-run-investor-process"
+      ],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "channel-partnerships-part-i-building-an-ideal-profile-and-selecting-the-best",
+      "evidence_status": "substantive",
+      "primary_skill": "math-build-channel-partnerships",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "the-easiest-way-to-impress-your-future-investors-the-early-stage-data-room",
+      "evidence_status": "substantive",
+      "primary_skill": "math-run-investor-process",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "dont-trust-google-for-your-customer-retention-metrics",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "the-most-effective-way-to-do-investor-updates",
+      "evidence_status": "substantive",
+      "primary_skill": "math-write-investor-update",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "stop-selling-yourself-short-your-market-size-is-bigger-than-you-think",
+      "evidence_status": "substantive",
+      "primary_skill": "math-validate-startup",
+      "supporting_skills": [
+        "math-build-investor-pitch"
+      ],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-how-defining-purpose-yields-results",
+      "evidence_status": "substantive",
+      "primary_skill": "math-founder-office-hours",
+      "supporting_skills": [
+        "math-review-founder-operations"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "secrets-to-a-speedy-and-successful-fundraise",
+      "evidence_status": "substantive",
+      "primary_skill": "math-run-investor-process",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-raise-for-outcomes-not-headlines",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "chicago-capital-podcast-troy-henikoff-on-ted-lasso-vc-and-building-a-winning-team",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "higher-valuations-are-not-always-better",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-dont-send-the-deck",
+      "evidence_status": "substantive",
+      "primary_skill": "math-run-investor-process",
+      "supporting_skills": [
+        "math-build-investor-pitch"
+      ],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-how-to-learn-from-churn",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-the-right-kpis-matter",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "levers-the-framework-for-building-repeatability-into-your-business",
+      "evidence_status": "substantive",
+      "primary_skill": "math-design-growth-experiments",
+      "supporting_skills": [
+        "math-review-founder-operations",
+        "math-diagnose-metrics"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-how-to-get-great-investor-meetings",
+      "evidence_status": "substantive",
+      "primary_skill": "math-run-investor-process",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-friction-kills-deals",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [
+        "math-run-investor-process"
+      ],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "how-to-get-better-introductions",
+      "evidence_status": "substantive",
+      "primary_skill": "math-run-investor-process",
+      "supporting_skills": [
+        "math-review-founder-operations"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "entrepreneurship-fundraising-and-practical-advice-for-startup-founders",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-reading-between-the-lines",
+      "evidence_status": "substantive",
+      "primary_skill": "math-review-founder-operations",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-our-business-is-a-relationship-business",
+      "evidence_status": "substantive",
+      "primary_skill": "math-write-investor-update",
+      "supporting_skills": [
+        "math-run-investor-process"
+      ],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-paying-for-services-with-equity",
+      "evidence_status": "substantive",
+      "primary_skill": "math-structure-founder-equity",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-3-things-you-need-to-have-a-successful-business",
+      "evidence_status": "substantive",
+      "primary_skill": "math-founder-office-hours",
+      "supporting_skills": [
+        "math-design-growth-experiments",
+        "math-review-founder-operations"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "the-inevitable-economics-of-trust",
+      "evidence_status": "substantive",
+      "primary_skill": "math-review-founder-operations",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-how-to-make-your-annual-budget-twice-as-valuable",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [
+        "math-review-founder-operations"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-how-to-find-the-right-job-at-the-right-start-up",
+      "evidence_status": "substantive",
+      "primary_skill": "math-review-founder-operations",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-pain-killer-vs-vitamin",
+      "evidence_status": "substantive",
+      "primary_skill": "math-validate-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-do-you-know-the-difference-between-gross-profit-and-contribution-margin",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [
+        "math-model-startup"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-the-entrepreneurs-wheel-of-fortune",
+      "evidence_status": "substantive",
+      "primary_skill": "math-founder-office-hours",
+      "supporting_skills": [
+        "math-review-founder-operations"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-back-to-basics-valuations-option-pools-and-what-you-need-to-know-before-raising-capital",
+      "evidence_status": "substantive",
+      "primary_skill": "math-structure-founder-equity",
+      "supporting_skills": [
+        "math-plan-fundraise"
+      ],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-communicating-to-your-investors-its-more-important-than-you-think",
+      "evidence_status": "substantive",
+      "primary_skill": "math-write-investor-update",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-the-equity-conversation",
+      "evidence_status": "substantive",
+      "primary_skill": "math-structure-founder-equity",
+      "supporting_skills": [
+        "math-review-founder-operations"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-financial-modeling-part-5-modeling-financial-growth",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [
+        "math-design-growth-experiments"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-financial-modeling-part-4-how-fundraising-and-dilution-impacts-your-equity-as-a-founder",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [
+        "math-structure-founder-equity",
+        "math-plan-fundraise"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-financial-modeling-part-3-modeling-your-expenses",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-decoding-the-revenue-puzzle",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [
+        "math-diagnose-metrics"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-financial-modeling-part-2-the-power-of-a-financial-model",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-financial-modeling-part-1-what-is-a-financial-model",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-your-baby-is-ugly",
+      "evidence_status": "substantive",
+      "primary_skill": "math-validate-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "not-all-revenue-is-created-equal",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [
+        "math-validate-startup",
+        "math-review-founder-operations"
+      ],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-founder-vesting-rsus-and-83b-elections-making-sense-of-the-mess",
+      "evidence_status": "substantive",
+      "primary_skill": "math-structure-founder-equity",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-founders-allocating-equity-and-avoiding-the-big-mistake",
+      "evidence_status": "substantive",
+      "primary_skill": "math-structure-founder-equity",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-how-to-answer-the-question-what-is-your-cac",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "tech-scenes-chicago-with-troy-henikoff",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "setting-the-record-straight",
+      "evidence_status": "substantive",
+      "primary_skill": "math-review-founder-operations",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "math-101-why-is-troy-obsessed-with-cac",
+      "evidence_status": "substantive",
+      "primary_skill": "math-diagnose-metrics",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-what-makes-a-truly-great-entrepreneur",
+      "evidence_status": "substantive",
+      "primary_skill": "math-founder-office-hours",
+      "supporting_skills": [
+        "math-review-founder-operations"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-how-to-optimize-use-of-capital",
+      "evidence_status": "substantive",
+      "primary_skill": "math-design-growth-experiments",
+      "supporting_skills": [
+        "math-model-startup"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-wait-now-troy-likes-convertible-notes",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-mistakes-entrepreneurs-make-setting-prices",
+      "evidence_status": "substantive",
+      "primary_skill": "math-design-growth-experiments",
+      "supporting_skills": [
+        "math-validate-startup"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "math-101-a-twist-on-convertible-notes",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-the-rule-of-two",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-convertible-debtsafe-vs-equity",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-finding-the-right-investor",
+      "evidence_status": "substantive",
+      "primary_skill": "math-run-investor-process",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "secret-of-the-ask",
+      "evidence_status": "substantive",
+      "primary_skill": "math-build-investor-pitch",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-pot-of-gold",
+      "evidence_status": "substantive",
+      "primary_skill": "math-build-investor-pitch",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "impact-of-raising-too-much",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "math-101-when-to-raise-capital",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "funding-the-valley",
+      "evidence_status": "substantive",
+      "primary_skill": "math-plan-fundraise",
+      "supporting_skills": [],
+      "review": "research/fundraising.md"
+    },
+    {
+      "slug": "bootstrapping-in-america-with-troy-henikoff",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "which-chicagoans-are-best-at-mentoring-women",
+      "evidence_status": "substantive",
+      "primary_skill": "math-review-founder-operations",
+      "supporting_skills": [
+        "math-founder-office-hours",
+        "math-run-investor-process"
+      ],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "the-new-york-times-test",
+      "evidence_status": "substantive",
+      "primary_skill": "math-review-founder-operations",
+      "supporting_skills": [
+        "math-founder-office-hours"
+      ],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "the-distance-podcast-troy-henikoff",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "qa-with-troy-henikoff-are-entrepreneurs-born-or-made",
+      "evidence_status": "substantive",
+      "primary_skill": "math-founder-office-hours",
+      "supporting_skills": [
+        "math-review-founder-operations"
+      ],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "startup-financial-modeling-part-4-the-balance-sheet-cash-flow-and-unit-economics",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [
+        "math-diagnose-metrics"
+      ],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "startup-financial-modeling-part-3-the-income-statement-and-custom-detail-tabs",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "startup-financial-modeling-part-2-start-with-your-assumptions",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "startup-financial-modeling-part-1-what-is-a-financial-model",
+      "evidence_status": "substantive",
+      "primary_skill": "math-model-startup",
+      "supporting_skills": [],
+      "review": "research/being-a-better-entrepreneur.md"
+    },
+    {
+      "slug": "startup-stories-nothing-matters-more-than-your-customers",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "techstars-conversation-with-troy-henikoff",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "troy-henikoff-interview-on-growth-hacker",
+      "evidence_status": "stub",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "troy-henikoff-makes-list-of-top-50-chicagoans-in-tech",
+      "evidence_status": "non_instructional",
+      "primary_skill": "math-founder-stack",
+      "supporting_skills": [],
+      "review": "research/extended-library.md"
+    },
+    {
+      "slug": "q-what-are-some-common-questions-asked-by-vcs-during-a-first-pitch-meeting",
+      "evidence_status": "substantive",
+      "primary_skill": "math-build-investor-pitch",
+      "supporting_skills": [
+        "math-run-investor-process",
+        "math-validate-startup"
+      ],
+      "review": "research/extended-library.md"
+    }
+  ]
+}

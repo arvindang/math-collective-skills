@@ -1,0 +1,132 @@
+{
+  "math-founder-stack": {
+    "should_trigger": [
+      "I am a first-time founder and have five urgent problems. Help me decide what to work on next.",
+      "Run an end-to-end founder review and route each issue to the right workflow."
+    ],
+    "should_not_trigger": [
+      "Calculate our monthly logo retention by cohort.",
+      "Draft this month's investor update."
+    ]
+  },
+  "math-founder-office-hours": {
+    "should_trigger": [
+      "I have an idea for an AI recruiting product. Is it worth building?",
+      "I'm stuck and want candid founder office hours before choosing a direction."
+    ],
+    "should_not_trigger": [
+      "Create a three-statement financial model.",
+      "Compare a SAFE with a priced round."
+    ]
+  },
+  "math-validate-startup": {
+    "should_trigger": [
+      "Design customer interviews that can falsify our problem hypothesis.",
+      "Help me validate demand and build a bottom-up market estimate before we build."
+    ],
+    "should_not_trigger": [
+      "Write a quarterly board update.",
+      "Build an investor CRM and outreach cadence."
+    ]
+  },
+  "math-model-startup": {
+    "should_trigger": [
+      "Build a driver-based startup model with revenue, hiring, runway, and scenarios.",
+      "Audit whether our income statement, balance sheet, and cash flow model reconcile."
+    ],
+    "should_not_trigger": [
+      "Help me interview churned customers.",
+      "Score potential channel partners."
+    ]
+  },
+  "math-diagnose-metrics": {
+    "should_trigger": [
+      "Our retention fell last quarter. Diagnose the cohorts and likely drivers.",
+      "Define CAC, contribution LTV, payback, and a KPI tree for our marketplace."
+    ],
+    "should_not_trigger": [
+      "Allocate equity among three cofounders.",
+      "Rewrite our pitch deck narrative."
+    ]
+  },
+  "math-design-growth-experiments": {
+    "should_trigger": [
+      "Design a pricing test with churn guardrails and scale-or-kill thresholds.",
+      "We want to double paid acquisition. Build a staged experiment around marginal CAC."
+    ],
+    "should_not_trigger": [
+      "Draft a cold email to an investor.",
+      "Prepare questions about founder vesting for counsel."
+    ]
+  },
+  "math-build-channel-partnerships": {
+    "should_trigger": [
+      "Create an ideal partner profile and score these possible channel partners.",
+      "Help us negotiate, launch, and measure a referral partnership."
+    ],
+    "should_not_trigger": [
+      "Plan a direct-response advertising test.",
+      "Choose our next-round valuation."
+    ]
+  },
+  "math-review-founder-operations": {
+    "should_trigger": [
+      "Run a candid operating review across focus, leadership, trust, and execution.",
+      "Our board meetings feel performative. Diagnose the operating and communication system."
+    ],
+    "should_not_trigger": [
+      "Calculate CAC by channel.",
+      "Build a one-page investor teaser."
+    ]
+  },
+  "math-plan-fundraise": {
+    "should_trigger": [
+      "How much should we raise, when, and what milestones must it fund?",
+      "Compare a SAFE, note, and priced round using our cap table and runway."
+    ],
+    "should_not_trigger": [
+      "Write personalized investor outreach emails.",
+      "Diagnose why customers churn after onboarding."
+    ]
+  },
+  "math-build-investor-pitch": {
+    "should_trigger": [
+      "Review my deck with the essence, empathy, and emotion passes.",
+      "Turn our traction and market evidence into an investor pitch and Q&A."
+    ],
+    "should_not_trigger": [
+      "Build the investor target list and weekly CRM cadence.",
+      "Model our monthly cash balance."
+    ]
+  },
+  "math-run-investor-process": {
+    "should_trigger": [
+      "Build a target investor map, warm intro paths, outreach sequence, and data room plan.",
+      "Create a disciplined six-month investor relationship and fundraising process."
+    ],
+    "should_not_trigger": [
+      "Decide how much capital the company needs.",
+      "Draft a founder vesting agreement."
+    ]
+  },
+  "math-write-investor-update": {
+    "should_trigger": [
+      "Draft our monthly investor update with metrics, misses, risks, and asks.",
+      "Help me tell the board early about a material customer loss."
+    ],
+    "should_not_trigger": [
+      "Design a fundraising pitch deck.",
+      "Test whether our customer problem is urgent."
+    ]
+  },
+  "math-structure-founder-equity": {
+    "should_trigger": [
+      "Help three founders prepare an equity allocation conversation before meeting counsel.",
+      "Organize our vesting, restricted stock, option-pool, and 83(b) questions for professional review."
+    ],
+    "should_not_trigger": [
+      "Reconcile our monthly revenue-recognition schedule to the general ledger.",
+      "Create a customer acquisition experiment."
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Validate Startup"
+  short_description: "Test customer pain, value, and market evidence"
+  default_prompt: "Use $math-validate-startup to turn my startup idea into a falsifiable customer-validation plan."

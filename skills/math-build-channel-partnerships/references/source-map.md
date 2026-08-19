@@ -1,0 +1,10 @@
+# Source map
+
+| Title | Direct URL | Use | Caution |
+|---|---|---|---|
+| Channel Partnerships Part I: Building an ideal profile and selecting the best | [Open source](https://startups.henikoff.com/lesson/channel-partnerships-part-i-building-an-ideal-profile-and-selecting-the-best) | Build the ideal partner profile, candidate matrix, stakeholder map, and prioritization | Reach is not attributable revenue; account for activation, margin, support, concentration, and exclusivity |
+| Channel Partnerships Part II: Engaging and Closing Partners | [Open source](https://startups.henikoff.com/lesson/channel-partnerships-part-ii-engaging-and-closing-partners) | Test the joint proposition, define business responsibilities, and prepare the launch scorecard | Promotional growth claims are not baselines; contracts and data use need qualified review |
+| How Defining Purpose Yields Results | [Open source](https://startups.henikoff.com/lesson/math-101-how-defining-purpose-yields-results) | Set baseline, target, owner, deadline, evidence, and next decision before a pilot | Success criteria do not eliminate procurement, budget, security, or strategic-change risk |
+| The Right KPIs Matter | [Open source](https://startups.henikoff.com/lesson/math-101-the-right-kpis-matter) | Define actionable funnel metrics, denominators, owners, and guardrails | KPI movement is not automatically causal; keep margin, quality, retention, and capacity visible |
+| How to Get Better Introductions | [Open source](https://startups.henikoff.com/lesson/how-to-get-better-introductions) | Create a concise forwardable note and use double opt-in | Relevance is not entitlement; protect contact details and make declining easy |
+| The Inevitable Economics of Trust | [Open source](https://startups.henikoff.com/lesson/the-inevitable-economics-of-trust) | Inspect partner promises, delivery touchpoints, incentives, frontline support, leadership example, and data custody | Historical examples and performance claims are not current benchmarks or causal proof; worker, privacy, and platform rules change |

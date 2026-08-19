@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Model Startup"
+  short_description: "Build a driver-based startup financial model"
+  default_prompt: "Use $math-model-startup to design an integrated, assumption-led financial model for my company."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Founder Operating Review"
+  short_description: "Review focus, leadership, trust, and execution"
+  default_prompt: "Use $math-review-founder-operations to run a candid operating review and prioritize founder actions."

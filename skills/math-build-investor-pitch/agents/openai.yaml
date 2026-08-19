@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Investor Pitch"
+  short_description: "Build and review a clear investor pitch"
+  default_prompt: "Use $math-build-investor-pitch to turn my evidence into a memorable, credible investor narrative."

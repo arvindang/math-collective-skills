@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Channel Partnerships"
+  short_description: "Select, negotiate, and launch channel partners"
+  default_prompt: "Use $math-build-channel-partnerships to evaluate and launch a mutually valuable channel partnership."

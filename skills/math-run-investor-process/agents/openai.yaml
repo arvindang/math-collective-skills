@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Investor Process"
+  short_description: "Target investors and run a disciplined raise"
+  default_prompt: "Use $math-run-investor-process to build my investor pipeline, outreach, meeting, and diligence workflow."

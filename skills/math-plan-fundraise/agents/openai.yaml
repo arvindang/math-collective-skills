@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Plan Fundraise"
+  short_description: "Plan financing amount, timing, and structure"
+  default_prompt: "Use $math-plan-fundraise to build milestone-led fundraising scenarios and advisor questions."

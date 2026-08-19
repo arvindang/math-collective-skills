@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Diagnose Metrics"
+  short_description: "Define KPIs and diagnose startup performance"
+  default_prompt: "Use $math-diagnose-metrics to audit my KPIs, retention, churn, and unit economics."

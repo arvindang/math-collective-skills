@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Investor Update"
+  short_description: "Write candid, useful investor communications"
+  default_prompt: "Use $math-write-investor-update to draft a concise investor update with metrics, risks, and specific asks."

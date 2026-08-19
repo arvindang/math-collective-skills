@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Growth Experiments"
+  short_description: "Design bounded pricing and acquisition tests"
+  default_prompt: "Use $math-design-growth-experiments to design a measurable growth test with clear scale-or-kill thresholds."

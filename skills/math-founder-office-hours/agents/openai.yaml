@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Founder Office Hours"
+  short_description: "Diagnose the real founder problem and next step"
+  default_prompt: "Use $math-founder-office-hours to challenge my framing and identify the highest-leverage next decision."

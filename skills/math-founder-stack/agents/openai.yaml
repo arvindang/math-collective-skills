@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATH Founder Stack"
+  short_description: "Route founder questions to source-backed skills"
+  default_prompt: "Use $math-founder-stack to diagnose my startup question and route me to the right founder workflow."
