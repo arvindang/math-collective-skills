@@ -23,32 +23,51 @@ cd math-collective-skills
 ./setup --host all
 ```
 
-Then start with:
+### Invocation syntax by host
+
+The canonical skill name does **not** include a prefix. Explicit invocation
+syntax varies by product:
+
+| Product | How to invoke explicitly | Example |
+|---|---|---|
+| Codex CLI or IDE extension | Type `$` to mention the skill | `$math-founder-stack` |
+| ChatGPT | Type `@`, then select the skill | `@math-founder-stack` |
+| Claude Code | Use the skill's forward-slash command | `/math-founder-stack` |
+| Any supported host | Ask in plain language; matching skills may activate automatically | `Use the math-founder-stack skill` |
+
+Use `/`, not `\`, for Claude Code. The `$` prompts in `agents/openai.yaml` are
+intentionally OpenAI-specific; the shared `SKILL.md` instructions and the skill
+names themselves remain host-neutral. See the official [OpenAI skill
+documentation](https://learn.chatgpt.com/docs/build-skills) and [Claude Agent
+Skills documentation](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/claude-api-skill).
+
+Then start with this host-neutral prompt:
 
 ```text
-Use $math-founder-office-hours. We are building [product] for [customer].
+Use the math-founder-office-hours skill. We are building [product] for [customer].
 Our hardest decision right now is [decision].
 ```
 
 For a broad situation, let the router choose the smallest useful workflow:
 
 ```text
-Use $math-founder-stack to diagnose our current constraint and choose the
-smallest useful workflow.
+Use the math-founder-stack skill to diagnose our current constraint and choose
+the smallest useful workflow.
 ```
 
 For a focused task, invoke the specialist directly:
 
 ```text
-Use $math-diagnose-metrics. Audit our retention definition, rebuild the cohort
-view, and finish with a handoff for the growth-experiment skill.
+Use the math-diagnose-metrics skill. Audit our retention definition, rebuild
+the cohort view, and finish with a handoff for the growth-experiment skill.
 ```
 
 For a deliberate chain, name both skills and the handoff:
 
 ```text
-Use $math-validate-startup, then hand its evidence ledger to
-$math-model-startup. Do not carry unsupported assumptions forward as facts.
+Use the math-validate-startup skill, then hand its evidence ledger to the
+math-model-startup skill. Do not carry unsupported assumptions forward as
+facts.
 ```
 
 Skills do not need to run as one giant workflow. In the same conversation, the
@@ -67,19 +86,19 @@ specialists invoked when those decisions appear.
 
 | Skill | Specialist | Produces | Typical handoff |
 |---|---|---|---|
-| `$math-founder-stack` | Chief of staff | Constraint diagnosis and route | The selected specialist |
-| `$math-founder-office-hours` | Founder coach | Reframe, options, and decision brief | Validation, operations, or one narrow specialist |
-| `$math-validate-startup` | Customer truth-teller | Evidence ledger and falsifiable validation plan | Model, growth experiment, or pitch |
-| `$math-model-startup` | Startup CFO | Driver tree, integrated model design, and scenarios | Metrics, growth experiment, or fundraise plan |
-| `$math-diagnose-metrics` | Metrics lead | KPI dictionary, cohorts, unit economics, and diagnosis | Growth experiment, model revision, or investor update |
-| `$math-design-growth-experiments` | Growth lead | Bounded test with scale/change/stop thresholds | Metrics diagnosis, model revision, or operating review |
-| `$math-build-channel-partnerships` | Partnerships lead | Partner scorecard, deal plan, launch, and measurement | Growth, metrics, or operating review |
-| `$math-review-founder-operations` | Operating partner | Focus, leadership, trust, and execution review | Office hours, one specialist, or investor update |
-| `$math-plan-fundraise` | Fundraising strategist | Milestone-led amount, timing, structure, and risk cases | Pitch, investor process, and equity preflight |
-| `$math-build-investor-pitch` | Pitch coach | Three-pass narrative, evidence gaps, and investor Q&A | Investor process |
-| `$math-run-investor-process` | Deal lead | Target map, outreach, CRM cadence, and data-room plan | Pitch iteration and investor updates |
-| `$math-write-investor-update` | Investor relations lead | Candid metrics, risks, decisions, and asks | Operating review and the next financing cycle |
-| `$math-structure-founder-equity` | Equity preflight coach | Founder facts, scenarios, and professional-review questions | Counsel review and fundraise plan |
+| `math-founder-stack` | Chief of staff | Constraint diagnosis and route | The selected specialist |
+| `math-founder-office-hours` | Founder coach | Reframe, options, and decision brief | Validation, operations, or one narrow specialist |
+| `math-validate-startup` | Customer truth-teller | Evidence ledger and falsifiable validation plan | Model, growth experiment, or pitch |
+| `math-model-startup` | Startup CFO | Driver tree, integrated model design, and scenarios | Metrics, growth experiment, or fundraise plan |
+| `math-diagnose-metrics` | Metrics lead | KPI dictionary, cohorts, unit economics, and diagnosis | Growth experiment, model revision, or investor update |
+| `math-design-growth-experiments` | Growth lead | Bounded test with scale/change/stop thresholds | Metrics diagnosis, model revision, or operating review |
+| `math-build-channel-partnerships` | Partnerships lead | Partner scorecard, deal plan, launch, and measurement | Growth, metrics, or operating review |
+| `math-review-founder-operations` | Operating partner | Focus, leadership, trust, and execution review | Office hours, one specialist, or investor update |
+| `math-plan-fundraise` | Fundraising strategist | Milestone-led amount, timing, structure, and risk cases | Pitch, investor process, and equity preflight |
+| `math-build-investor-pitch` | Pitch coach | Three-pass narrative, evidence gaps, and investor Q&A | Investor process |
+| `math-run-investor-process` | Deal lead | Target map, outreach, CRM cadence, and data-room plan | Pitch iteration and investor updates |
+| `math-write-investor-update` | Investor relations lead | Candid metrics, risks, decisions, and asks | Operating review and the next financing cycle |
+| `math-structure-founder-equity` | Equity preflight coach | Founder facts, scenarios, and professional-review questions | Counsel review and fundraise plan |
 
 Each completed workflow ends with **Watch/read next** and one to three relevant
 links to the original lesson—not a generic bibliography.
@@ -104,15 +123,15 @@ current benchmark.
 ### Example end-to-end sequence
 
 ```text
-$math-founder-stack
-  → $math-validate-startup          evidence ledger
-  → $math-model-startup             driver model and runway cases
-  → $math-diagnose-metrics          KPI contracts and cohort diagnosis
-  → $math-design-growth-experiments bounded test and decision gates
-  → $math-plan-fundraise            milestone-led financing plan
-  → $math-build-investor-pitch      narrative and investor Q&A
-  → $math-run-investor-process      target map, CRM, and data room
-  → $math-write-investor-update     progress, risks, and asks
+math-founder-stack
+  → math-validate-startup          evidence ledger
+  → math-model-startup             driver model and runway cases
+  → math-diagnose-metrics          KPI contracts and cohort diagnosis
+  → math-design-growth-experiments bounded test and decision gates
+  → math-plan-fundraise            milestone-led financing plan
+  → math-build-investor-pitch      narrative and investor Q&A
+  → math-run-investor-process      target map, CRM, and data room
+  → math-write-investor-update     progress, risks, and asks
 ```
 
 This is an example, not a mandatory funnel. The router should skip any stage
